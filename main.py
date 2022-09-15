@@ -17,7 +17,7 @@ while iniciar_trivia == True:
  print(Fore.WHITE+'numero de intentos: ', intentos)
  input('presiona enter para empezar')
  from colorama import Fore, Back
- print(Fore.RED+"\n Hola", nombre, "'\U0001F9D0''responde las siguientes preguntas escribiendo la letra de la alternativa y presionando 'Enter' para enviar tu respuesta:\n")
+ print(Fore.RED+"\n Hola", nombre, "\U0001F9D0 responde las siguientes preguntas escribiendo la letra de la alternativa y presionando 'Enter' para enviar tu respuesta:\n")
  time.sleep(2)
  from colorama import Fore, Back
  print (Fore.YELLOW+'primera pregunta\n')
